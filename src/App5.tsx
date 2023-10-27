@@ -1,4 +1,3 @@
-import App4 from './App4'
 import './App.css'
 
 function App5() {
@@ -7,4 +6,4 @@ function App5() {
     </div>
 }
 
-export default App4
+export default App5
